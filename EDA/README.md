@@ -9,7 +9,7 @@
 #### Python for Data Science : Introduction to the Language and Numpy
 [Certificate](https://cursos.alura.com.br/certificate/2ae3b15c-37d4-4ab6-9f1d-57d5bba9a107)
 
-#### Python for Data Science : Functions, Packages and Basic Pandas   Cert
+#### Python for Data Science : Functions, Packages and Basic Pandas   
 [Certificate](https://cursos.alura.com.br/certificate/a786a2cf-8ebf-423f-ade8-b0bb9f003be5)
 
 #### Time series analysis for predictions   
