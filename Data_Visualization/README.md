@@ -1,12 +1,7 @@
-# DATA VISUALIZATION - From my studies with Alura Cursos
+# DATA VISUALIZATION 
 
+Repository with data visualization code for the courses I've taken. 
 
-Data vizualization with python files as a result from my studies on Data Science in the Alura Cursos platform. 
-
-LIST OF COURSES TAKEN (with certificates):
-
-#### [Data Vizualization: Exploring data with Seaborn](https://cursos.alura.com.br/certificate/c02263e3-a8bf-43da-a8ba-2cf04be195d1)
-
-#### [Data Vizualization: creating graphs with Matplotlib](https://cursos.alura.com.br/certificate/0d990f40-6a97-4661-b8de-e37a8da72037)
+*under construction*
 
 
